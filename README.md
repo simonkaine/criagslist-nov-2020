@@ -1,1 +1,1 @@
-# criagslist-nov-2020
+# lab-02d-copy-a-site
